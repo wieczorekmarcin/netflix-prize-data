@@ -84,6 +84,6 @@ The final result (6) should contain the following attributes:
 A special feature of the set: use of complex value in MapReduce
     
 ## How to run
-1. Utworzenie klastra
-2. Umieść w zasobniku dane źródłowe oraz skrypt uruchamiający.
-3. Uruchomienie `run.sh` z poziomu klastra.
+1. Create a cluster
+2. Place the source data and the launch script in the tray.
+3. Run `run.sh` from the cluster level.
